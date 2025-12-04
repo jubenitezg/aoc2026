@@ -1,6 +1,3 @@
-use std::error::Error;
-use std::ops::Index;
-use std::ptr::eq;
 
 use aoc2026::read_input;
 
